@@ -1,26 +1,13 @@
 
-# AMBIT – SecretGuard
+# AMBIT SecretGuard
+# Repository monitoring demonstration
 
-## College
-Bharatesh Institute of Technology
+COLLEGE_NAME = "Bharatesh Institute of Technology"
 
-## Project
-Real-Time Secret and Port Guard with Auto Remediation
+PROJECT_NAME = "AMBIT SecretGuard"
 
-## Team Members
-- Swastishri Hittalkeri
-- Srushti Pacheri
-- Anup Kanakanavar
-- Aniket Mohite
+STATUS = "Normal"
 
-## Description
-A security monitoring system that detects
-possible exposed API keys, tokens and passwords
-in GitHub repositories.
+# Security testing: dummy credential only
+API_KEY = "DEMO_NOT_A_REAL_API_KEY"
 
-## Technologies
-- Python
-- Flask
-- GitHub API
-- SQLite
-- HTML and CSS
